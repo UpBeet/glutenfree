@@ -1,0 +1,25 @@
+{
+  "name": "glutenfree",
+  "version": "0.0.1",
+  "description": "not vegan",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UpBeet/glutenfree.git"
+  },
+  "keywords": [
+    "party",
+    "games",
+    "JavaScript",
+    "Node.js"
+  ],
+  "author": "UpBeet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UpBeet/glutenfree/issues"
+  },
+  "homepage": "https://github.com/UpBeet/glutenfree"
+}

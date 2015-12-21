@@ -1,0 +1,45 @@
+{
+  "name": "glutenfree",
+  "version": "0.0.1",
+  "description": "not vegan",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UpBeet/glutenfree.git"
+  },
+  "keywords": [
+    "party",
+    "games",
+    "JavaScript",
+    "Node.js"
+  ],
+  "author": "UpBeet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UpBeet/glutenfree/issues"
+  },
+  "homepage": "https://github.com/UpBeet/glutenfree",
+  "dependencies": {
+    "babel": "^6.3.13",
+    "bluebird": "^3.1.1",
+    "express": "^4.13.3",
+    "express-enrouten": "^1.2.1",
+    "gulp": "^3.9.0",
+    "ioredis": "^1.13.1",
+    "jsonwebtoken": "^5.4.1",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.3.3",
+    "ramda": "^0.18.0",
+    "socket.io": "^1.3.7",
+    "socketio-jwt": "^4.3.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^5.0.0-beta6",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^2.1.1",
+    "mocha": "^2.3.4"
+  }
+}
